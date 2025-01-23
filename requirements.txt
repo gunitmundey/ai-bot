@@ -1,0 +1,8 @@
+TensorFlow
+yfinance
+numpy
+pandas==1.3.5
+scikit-learn
+matplotlib
+gym
+logging
