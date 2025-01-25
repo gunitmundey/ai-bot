@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 gym
 logging
+yahoo_fin
