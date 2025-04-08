@@ -50,6 +50,3 @@ trading-bot
 - **Data Fetching**: Historical and real-time Bitcoin price data is fetched from Yahoo Finance for analysis and trading decisions.
 - **Logging and Error Handling**: The bot includes logging for monitoring and debugging, and handles errors gracefully.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
